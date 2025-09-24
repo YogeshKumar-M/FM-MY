@@ -86,7 +86,8 @@ plot(t,efm);
 
 Output Waveform
 
-<img width="768" height="724" alt="Screenshot 2025-09-10 125241" src="https://github.com/user-attachments/assets/6a6f6a56-41e5-445b-bc8a-80ff5b69d34f" />
+<img width="759" height="727" alt="Screenshot 2025-09-24 150128" src="https://github.com/user-attachments/assets/e94228be-8fec-4c65-a80c-969fcaf52be7" />
+
 
 
 Tabulation
