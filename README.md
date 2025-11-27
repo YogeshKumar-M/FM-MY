@@ -66,8 +66,8 @@ MODEL GRAPH:
 
 Program
 ```
-Am=6.9;
-Ac=13.8;
+Am=4.9;
+Ac=9.8;
 fm=427;
 fc=4270;
 fs=42700;
